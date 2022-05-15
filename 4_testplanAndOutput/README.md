@@ -1,3 +1,4 @@
 # Testplan
 # High level test plan
--TestID -Description -Exp I/P -Exp O/P
+Test ID Description Exp I/P Exp O/P Status
+
