@@ -42,3 +42,5 @@ Led shoes the position of wiper and it will return to the original position afte
 * Wiper blades
 # Block diagram
 ![image](https://user-images.githubusercontent.com/101888843/168492890-2f1a1993-94f9-429a-906a-d21a76cfd01e.png)
+# Flowchart
+![image](https://user-images.githubusercontent.com/101888843/168492939-26939735-e69b-4113-8daa-f3d3e168f6ed.png)
